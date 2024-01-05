@@ -3,7 +3,7 @@
 ### Stats 📈
 <p align="left">
   <a href="https://github.com/daichi2mori">
-    <img height="20" src="https://komarev.com/ghpvc/?username=daichi2mori" />
+    <img height="20" src="https://komarev.com/ghpvc/?username=daichi2mori&color=red" />
   </a>
   <a href="https://github.com/daichi2mori">
     <img height="20" src="https://img.shields.io/github/followers/daichi2mori?label=follow&logo=github&style=flat" />
