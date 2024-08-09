@@ -11,7 +11,7 @@
     <img height="20" src="https://img.shields.io/github/followers/daichi2mori?label=follow&logo=github&style=flat" />
   </a> -->
 	<!-- 	Qiita posts -->
-  <a href="https://qiita.com/daichi2mori"><img src="https://badgen.org/img/qiita/daichi2mori/articles?style=plastic" alt="Articles" /></a>
+<!--   <a href="https://qiita.com/daichi2mori"><img src="https://badgen.org/img/qiita/daichi2mori/articles?style=plastic" alt="Articles" /></a> -->
 	<!-- 	Qiita contributions -->
 <!--   <a href="http://qiita.com/daichi2mori">
     <img height="20" src="https://qiita-badge.apiapi.app/s/daichi2mori/contributions.svg" />
